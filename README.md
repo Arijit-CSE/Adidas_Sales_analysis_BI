@@ -6,4 +6,17 @@ Power BI's powerful data visualization capabilities will allow us to create inte
 
 ## Table of Contents:
    ### Business Requirements:
+   ### Problem Statement:
+   #### KPI's(Key Point Indicators):
+              1. Total Sales Analysis:
+              2. Profitability Analysis:
+              3. Sales Volume Analysis:
+              4. Pricing Strategy:
+              5. Margin Analysis:
+   #### Charts Requirements:
+              1. Total Sales by Month(Area Chart):
+              2. Total Sales by State(Filled Map):
+              3. Tolal Sales by Region(Donut Chart):
+              4. Total Sales by Product(Bar Chart):
+              5. Total Sales by Retailer(Bar Chart):
                  
