@@ -5,5 +5,5 @@ The Adidas sales analysis aims to provide insights into the company's performanc
 Power BI's powerful data visualization capabilities will allow us to create interactive dashboards and reports, facilitating real-time data exploration. By analyzing sales data, we can assess the effectiveness of marketing strategies, product launches, and inventory management. Ultimately, this analysis will support Adidas in optimizing its sales operations and enhancing overall business performance.
 
 ## Table of Contents:
-                  ### Business Requirements:
-                  ###
+   ### Business Requirements:
+                 
