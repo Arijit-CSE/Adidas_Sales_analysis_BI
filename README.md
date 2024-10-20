@@ -19,4 +19,30 @@ Power BI's powerful data visualization capabilities will allow us to create inte
               3. Tolal Sales by Region(Donut Chart):
               4. Total Sales by Product(Bar Chart):
               5. Total Sales by Retailer(Bar Chart):
+## Business Requirements:
+
+Through this Power BI-driven analysis, Adidas aims to empower its decision-makers with data-driven insights, fostering strategic growth and competitiveness in the dynamic sports and athletic industry.
+@ Enhanced understanding of sales dynamics and performance drivers.
+@ Identification of geographical areas with high and low sales potential.
+@ Insights into product performance, aiding in inventroy and marketing decisions.
+@ Insights pricing and margin strategies for improved profitability.
+@ Actionable recommendations for optimizing sales and profit across various dimensions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              
                  
