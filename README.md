@@ -89,6 +89,26 @@ Through this Power BI-driven analysis, Adidas aims to empower its decision-maker
 ![Screenshot 2024-10-21 002127](https://github.com/user-attachments/assets/e5b413c4-4852-4d09-89d4-492b2813459f)
 
 
+## Dashboard Creating:
+
+![Screenshot 2024-10-24 191728](https://github.com/user-attachments/assets/d6968603-fa6a-4671-b846-f890afbd16ed)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
