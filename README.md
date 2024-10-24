@@ -4,36 +4,36 @@ The Adidas sales analysis aims to provide insights into the company's performanc
 
 Power BI's powerful data visualization capabilities will allow us to create interactive dashboards and reports, facilitating real-time data exploration. By analyzing sales data, we can assess the effectiveness of marketing strategies, product launches, and inventory management. Ultimately, this analysis will support Adidas in optimizing its sales operations and enhancing overall business performance.
 
-## Table of Contents:
-   ### 1. Business Requirements:
-   ### 2. Problem Statement:
-   #### 2.a KPI's(Key Point Indicators):
-              1. Total Sales Analysis:
-              2. Profitability Analysis:
-              3. Sales Volume Analysis:
-              4. Pricing Strategy:
-              5. Margin Analysis:
-   #### 2.b Charts Requirements:
-              1. Total Sales by Month(Area Chart):
-              2. Total Sales by State(Filled Map):
-              3. Tolal Sales by Region(Donut Chart):
-              4. Total Sales by Product(Bar Chart):
-              5. Total Sales by Retailer(Bar Chart):
-## Business Requirements:
+## 🔶 Table of Contents:
+   ### 💠 Business Requirements:
+   ### 💠 Problem Statement:
+   #### ♦️ KPI's(Key Point Indicators):
+              ⭐ Total Sales Analysis:
+              ⭐ Profitability Analysis:
+              ⭐ Sales Volume Analysis:
+              ⭐ Pricing Strategy:
+              ⭐ Margin Analysis:
+   #### ♦️ Charts Requirements:
+              ⭐ Total Sales by Month(Area Chart):
+              ⭐ Total Sales by State(Filled Map):
+              ⭐ Tolal Sales by Region(Donut Chart):
+              ⭐ Total Sales by Product(Bar Chart):
+              ⭐ Total Sales by Retailer(Bar Chart):
+## 🔶 Business Requirements:
 
 Through this Power BI-driven analysis, Adidas aims to empower its decision-makers with data-driven insights, fostering strategic growth and competitiveness in the dynamic sports and athletic industry.
 
-@ Enhanced understanding of sales dynamics and performance drivers.
+🌟 Enhanced understanding of sales dynamics and performance drivers.
 
-@ Identification of geographical areas with high and low sales potential.
+🌟 Identification of geographical areas with high and low sales potential.
 
-@ Insights into product performance, aiding in inventroy and marketing decisions.
+🌟 Insights into product performance, aiding in inventroy and marketing decisions.
 
-@ Insights pricing and margin strategies for improved profitability.
+🌟 Insights pricing and margin strategies for improved profitability.
 
-@ Actionable recommendations for optimizing sales and profit across various dimensions.
+🌟 Actionable recommendations for optimizing sales and profit across various dimensions.
 
-## Problem Statement:
+## 🔶 Problem Statement:
 
 ### KPI's(Key Point Indicator):
 
@@ -88,8 +88,18 @@ Through this Power BI-driven analysis, Adidas aims to empower its decision-maker
 
 ![Screenshot 2024-10-21 002127](https://github.com/user-attachments/assets/e5b413c4-4852-4d09-89d4-492b2813459f)
 
+### Slicer:
+#### Region & Invoice Date Slicer:
 
-## Dashboard Creating:
+![Screenshot 2024-10-24 192837](https://github.com/user-attachments/assets/8ede9860-e53a-4f52-8980-83d3778fea32)
+
+#### Total Sales/Profit/Unite sold/Avg of price/Avg margin:
+
+![Screenshot 2024-10-24 193131](https://github.com/user-attachments/assets/cbce5f3d-94cf-4622-9470-a34ca826790e)
+
+
+
+## 🔶 Dashboard Creating:
 
 ![Screenshot 2024-10-24 191728](https://github.com/user-attachments/assets/d6968603-fa6a-4671-b846-f890afbd16ed)
 
